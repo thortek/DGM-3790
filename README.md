@@ -1,1 +1,1 @@
-# DRich Internet Applications 1
+# Rich Internet Applications 1
