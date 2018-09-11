@@ -1,0 +1,1 @@
+# My file is different than our German friend because: 1.) I have added two images 2.) I have added some GreenSock animation to the images 3.) I have added some cool abilities when you click the attack, special attack and heal buttons 4.) I have added an extra button to the option 5.) That button, on click, shows an image when you "give up".
