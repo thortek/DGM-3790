@@ -14,10 +14,10 @@
 
     export default {
         components: {
-            app-header: Header,
-            app-servers: Servers,
-            app-server-details: ServerDetails,
-            app-footer: Footer
+            'app-header': Header,
+            'app-servers': Servers,
+            'app-server-details': ServerDetails,
+            'app-footer': Footer
         }
     }
 </script>
