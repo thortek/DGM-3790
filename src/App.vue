@@ -1,7 +1,7 @@
 <template>
         <app-header></app-header>
         <hr>
-            <app-servers></app-servers>
+        <app-servers></app-servers>
         <hr>
         <app-footer></app-footer>
 </template>
@@ -14,10 +14,10 @@
 
     export default {
         components: {
-            'app-header': Header,
-            'app-servers': Servers,
-            'app-server-details': ServerDetails,
-            'app-footer': Footer
+            app-header: Header,
+            app-servers: Servers,
+            app-server-details: ServerDetails,
+            app-footer: Footer
         }
     }
 </script>
