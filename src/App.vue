@@ -44,4 +44,7 @@ button {
   font-size: 16px;
   color: #fff;
 }
+body {
+  padding:30px;
+}
 </style>
